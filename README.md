@@ -8,6 +8,8 @@ Welcome Screen Example is a Flutter project that demonstrates how to create a be
 - **Custom Background:** The welcome screen features a custom background image to enhance visual appeal.
 - **Optional Button:** An optional button on the welcome pages for additional actions, such as navigating to the next screen.
 
+![imagen](https://github.com/betazetadev/flutter-welcome-screen/assets/18558408/8521f729-d141-419f-ab9b-159f74a4bda0)
+
 ## Screens
 
 1. **First Screen:**
