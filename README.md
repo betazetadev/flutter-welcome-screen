@@ -8,7 +8,7 @@ Welcome Screen Example is a Flutter project that demonstrates how to create a be
 - **Custom Background:** The welcome screen features a custom background image to enhance visual appeal.
 - **Optional Button:** An optional button on the welcome pages for additional actions, such as navigating to the next screen.
 
-![imagen](https://github.com/betazetadev/flutter-welcome-screen/assets/18558408/8521f729-d141-419f-ab9b-159f74a4bda0)
+<img src="https://github.com/betazetadev/flutter-welcome-screen/assets/18558408/c40d84e5-2955-4ac8-b417-48e6d49883ce" alt="imagen" width="300">
 
 ## Screens
 
@@ -37,7 +37,7 @@ Welcome Screen Example is a Flutter project that demonstrates how to create a be
 ```sh
 
    git clone https://github.com/betazetadev/flutter-welcome-screen
-   cd welcome_screen_example
+   cd flutter-welcome-screen
    
 ```
 
@@ -59,7 +59,7 @@ Welcome Screen Example is a Flutter project that demonstrates how to create a be
 
 ## Usage
 
-Once the app is running, you will see the welcome dialog with multiple pages. The welcome screen is designed to guide new users through the features of the fictional app, "Welcome Screen". Users can navigate through the pages using the smooth animations and interact with the clickable link at the bottom. The optional button on the last page can be used to proceed further in the app.
+Once the app is running, you will see the welcome dialog with multiple pages. The welcome screen is designed to guide new users through the features of the fictional app, "Welcome Screen". Users can navigate through the pages using the smooth animations and interact with the button at the bottom. The optional button on the last page can be used to proceed further in the app.
 
 [<img src="bmc_qr.png">](https://www.buymeacoffee.com/betazetadev "Buy me a coffee if you liked it")
 
