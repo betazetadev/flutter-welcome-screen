@@ -13,15 +13,12 @@ Welcome Screen Example is a Flutter project that demonstrates how to create a be
 ## Screens
 
 1. **First Screen:**
-    - **Description:** Diverse people waving and holding signs that say 'Welcome'.
     - **Text:** "Welcome to Welcome Screen"
 
 2. **Second Screen:**
-    - **Description:** People using the app to send welcome messages.
     - **Text:** "With Welcome Screen you can easily welcome anybody"
 
 3. **Third Screen:**
-    - **Description:** A group of happy characters celebrating, throwing confetti, and holding a banner that says 'Welcome'.
     - **Text:** "Improve the User Experience with a Welcome Screen!"
 
 ## Getting Started
