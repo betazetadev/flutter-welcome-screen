@@ -58,8 +58,6 @@ Welcome Screen Example is a Flutter project that demonstrates how to create a be
 
 Once the app is running, you will see the welcome dialog with multiple pages. The welcome screen is designed to guide new users through the features of the fictional app, "Welcome Screen". Users can navigate through the pages using the smooth animations and interact with the button at the bottom. The optional button on the last page can be used to proceed further in the app.
 
-[<img src="bmc_qr.png">](https://www.buymeacoffee.com/betazetadev "Buy me a coffee if you liked it")
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
